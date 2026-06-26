@@ -1,0 +1,17 @@
+WebSockets/
+│
+├── 01-http-vs-websocket
+├── 02-socketio-setup
+├── 03-first-connection
+├── 04-disconnection
+├── 05-custom-events
+├── 06-sending-data
+├── 07-socket-id
+├── 08-io-emit-vs-socket-emit
+├── 09-broadcasting
+├── 10-rooms
+├── 11-room-chat
+├── 12-online-users
+├── 13-private-messages
+├── 14-chat-app
+└── 15-quickroom-v1
